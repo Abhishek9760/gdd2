@@ -1,7 +1,7 @@
 GDD2
 =======
 
-Wat?
+About
 ----
 This repository is an experiment to use Flask, Mako, and Bootstrap to make a website for the Game Design & Development 2 Course at RIT. This repository is a work in progress (as any FOSS project is), and will be open for contributions.
 
